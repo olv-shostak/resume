@@ -34,7 +34,7 @@ body {
 }
 
 .about-me-description {
-  width: 450px;
+  width: 550px;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -168,6 +168,11 @@ body {
   background-color: #1e2939;
   width: 370px;
   padding: 40px 0;
+}
+
+.my-photo {
+  display: block;
+  border-radius: 50%;
 }
 
 .contact-section {
